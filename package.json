@@ -1,0 +1,23 @@
+{
+  "name": "image-optimizer",
+  "version": "1.0.0",
+  "description": "use squoosh",
+  "main": "optimize.mjs",
+  "scripts": {
+    "start": "node optimize.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nagatani/image-optimizer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nagatani/image-optimizer/issues"
+  },
+  "homepage": "https://github.com/Nagatani/image-optimizer#readme",
+  "dependencies": {
+    "@squoosh/lib": "^0.4.0"
+  }
+}

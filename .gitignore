@@ -1,0 +1,7 @@
+node_modules/
+optimized/*.png
+optimized/*.jpg
+optimized/*.jpeg
+source/*.png
+source/*.jpg
+source/*.jpeg
