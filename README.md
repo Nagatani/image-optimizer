@@ -1,0 +1,2 @@
+# image-optimizer
+use squoosh
